@@ -1,25 +1,39 @@
- # Title
+# Logo Product line
+<iframe src="https://giphy.com/embed/txIDYvzQ7wIB7N3PE3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/txIDYvzQ7wIB7N3PE3">via GIPHY</a></p>
+ Elevator pitch sentence
+ 
+### Badges
+ 
+### Gif of end product
 
-Gif of end product
-Explanation of the project! The Webex Expert Assistant application integrates the Webex Widget, Webex Expert on Demand app with Realwear Headset and ServiceNow to create an optimized support workflow for frontline workers and experts. 
+### Pre-Reqs
+Drop downs for Software with redirect to Repo with information.
 
-It allows frontline workers to request and get help via mobile devices and based on video/messaging/VR sessions. The remote Expert can see device information and data of the faulty device on the same page as the panel for communication with the frontline worker. A ServiceNow integration eases the involved documentation effort.
+<details>
+<summary>Linux</summary>
+Redirect to that repository
+</details>
 
-The sample application is a Flask application that serves as a web application to both, the frontline worker (table or smartphone) and the remote expert (desktop PC or Mac). 
+<details>
+<summary>macOS</summary>
+</details>
 
-   > Note: This demo is an enhanced and highly adapted version of the former GVE DevNet use case: https://gve-devnet.cisco.com/details/113
+### Installation
 
-## Author
-* Ramona Renner 
 
-## Contacts
+### Command Guide
 
-## Pre-requisites
-* 1 or more Webex account
-* Realwear Headset with Webex Expert on Demand (separate Webex account required)
-* ServiceNow instance (developer instance available [here](https://developer.servicenow.com/dev.do)) 
-* Firefox or Chrome Browser
-* (Optional) IaaS solution to host the code or ngrok to make application reachable via internet accessible URL
+
+### Links
+[homebrew]: https://formulae.brew.sh/formula/zoxide
+[emacs]: https://www.gnu.org/software/emacs/
+
+## API Documentation
+See full docs at: [API Docs](docs/api.md)
+
+## Contributing
+See [contributing guide](.github/CONTRIBUTING.md)
+
 
 ### Simple Cheats
 Headers
