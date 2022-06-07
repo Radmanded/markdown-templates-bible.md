@@ -10,8 +10,26 @@ https://devhints.io/vimscript - Great resource
 
 
 # Logo Product line
+<br />
 
 # Introduction
+
+## :construction: 
+
+## :information_source: How to run
+
+## :rocket: Built with
+
+## :computer: Project 
+
+## :memo: License
+
+## :mailbox_with_mail: Get in touch!
+
+<h2 align="center">
+   💈✂️ GoBarber ✂️💈
+</h2>
+
 
 **Lorem ipsum** dolor *sit amet*. 
 
@@ -55,6 +73,13 @@ Almost forgot about creating a footnote.[^1] This will do it again.[^2]
 
 [^1]: The first footnote
 [^2]: The second footnote
+
+-   [Node.js](https://nodejs.org/)
+-   [Docker](https://www.docker.com/docker-community)
+
+
+-   [React](https://pt-br.reactjs.org/)
+
 
 Want to cite something? 
 
