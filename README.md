@@ -26,6 +26,10 @@ https://devhints.io/vimscript - Great resource
 
 ## :mailbox_with_mail: Get in touch!
 
+:checkered_flag:
+
+:us:
+
 <h2 align="center">
    💈✂️ GoBarber ✂️💈
 </h2>
